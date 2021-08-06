@@ -9,6 +9,6 @@ class Job extends Model
     public $timestamps = false;
 
     protected $fillable = [
-        'id', 'cname', 'title', 'location', 'salary' 
+        //'id', 'cname', 'title', 'location', 'salary' 
     ];
 }

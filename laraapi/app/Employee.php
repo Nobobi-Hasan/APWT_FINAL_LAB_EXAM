@@ -9,6 +9,6 @@ class Employee extends Model
     public $timestamps = false;
 
     protected $fillable = [
-        'id', 'ename', 'cname', 'contact', 'username', 'password' 
+        //'id', 'ename', 'cname', 'contact', 'username', 'password' 
     ];
 }
